@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  background: #f7f8fb;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.9), rgba(247, 248, 251, 0.96)),
+    #f7f8fb;
+  color: #172033;
+}
+
+button,
+textarea,
+input {
+  font: inherit;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
