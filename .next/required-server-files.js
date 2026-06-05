@@ -104,7 +104,7 @@ self.__SERVER_FILES_MANIFEST={
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\hsy25-vm\\vscode_codex\\english_study",
+    "outputFileTracingRoot": "D:\\vscode_codex\\english_study",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -304,11 +304,11 @@ self.__SERVER_FILES_MANIFEST={
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
     "turbopack": {
-      "root": "C:\\Users\\hsy25-vm\\vscode_codex\\english_study"
+      "root": "D:\\vscode_codex\\english_study"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "C:\\Users\\hsy25-vm\\vscode_codex\\english_study",
+  "appDir": "D:\\vscode_codex\\english_study",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
